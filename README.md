@@ -47,7 +47,7 @@ Measured with a local 4B Q4_K_M model (`llama-server`) behind the FSMCoT archite
 | **Multi-Category Hard Suite (16 tasks)** | 12 / 16 (75.0%) | **16 / 16 (100.0%)** | **+25.0 pt** |
 
 *(Note: Full-scale numbers above come from the internal research suite; actual gains depend on your upstream model and backend settings.)*
-
+<img width="778" height="692" alt="スクリーンショット 2026-11-24 203540" src="https://github.com/user-attachments/assets/bfcc820f-1fb9-44e4-889d-7e51c2fcd939" />
 ---
 
 ## ⚡ Quick Start (30 Seconds)
