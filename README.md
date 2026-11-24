@@ -52,6 +52,9 @@ Measured with a local 4B Q4_K_M model (`llama-server`) behind the FSMCoT archite
 
 ## ⚡ Quick Start (30 Seconds)
 
+model download
+https://huggingface.co/moneykoikoi/omega-gemma-4-E4B-it
+
 ### 1. Start your OpenAI-compatible backend
 For example:
 - **llama.cpp**: `llama-server -m your-model.gguf --port 1918`
